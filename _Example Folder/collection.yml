@@ -1,0 +1,6 @@
+collections:
+  Example Folder:
+    output: true
+    order:
+      - Folder Page/.keep
+      - Folder Page/Subfolder Page.md
